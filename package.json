@@ -1,0 +1,19 @@
+{
+  "name": "tic_tac_toe_react",
+  "version": "1.0.0",
+  "description": "game tic tac toe on react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HliebPantyshenko/Tic_Tac_Toe_React.git"
+  },
+  "author": "Hlieb Pantyshenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HliebPantyshenko/Tic_Tac_Toe_React/issues"
+  },
+  "homepage": "https://github.com/HliebPantyshenko/Tic_Tac_Toe_React#readme"
+}
